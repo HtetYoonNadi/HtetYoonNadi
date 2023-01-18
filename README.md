@@ -1,11 +1,14 @@
-### Hi there 👋
+<h1> Hii :wave: </h1>
+<h2>I'm Htet Yoon Nadi :girl:</h2>
 
+- :notebook_with_decorative_cover: I'm currently learning MERN Stack.
+- 
 <!--
 **HtetYoonNadi/HtetYoonNadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- :notebook_with_decorative_cover: I'm currently learning MERN Stack.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
