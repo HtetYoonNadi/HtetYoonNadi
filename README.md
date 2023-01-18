@@ -1,20 +1,15 @@
 <h1> Hii :wave: </h1>
-<h2>I'm Htet Yoon Nadi :girl:</h2>
+<h2>I'm Htet Yoon Nadi :four_leaf_clover:</h2>
 
-- :notebook_with_decorative_cover: I'm currently learning MERN Stack.
-- 
-<!--
-**HtetYoonNadi/HtetYoonNadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :dog: My nickname is Annie.
+- :earth_asia: I'm from Yangon, Myanmar.
+- :bulb: I'm interest in Frontend Development.
+- :notebook_with_decorative_cover: I'm learning MERN Stack.
 
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skill
+Html:5
+CSS
+JavaScript
+Tailwind CSS
+React JS
 -->
